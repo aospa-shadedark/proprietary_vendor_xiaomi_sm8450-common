@@ -634,7 +634,6 @@ PRODUCT_PACKAGES += \
     audioadsprpcd \
     cdsprpcd \
     cnd \
-    cnss-daemon_xiaomi \
     diag-router \
     dpmQmiMgr \
     dspservice \
